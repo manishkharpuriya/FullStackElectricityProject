@@ -1,0 +1,88 @@
+/* General Styles */
+body {
+    margin: 0%;
+    font-family: Arial, sans-serif;
+  }
+  
+  .dashboard-container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    padding: 2%;
+    margin: auto;
+    width: 80%;
+  }
+  
+  /* Header Styles */
+  .header {
+    background-color: #e6e9e9;
+    border-bottom-style: groove;
+    border-color: rgb(5, 8, 59);
+    color: rgb(5, 8, 59);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 20px;
+  }
+  
+  .header h1 {
+    margin: 0;
+  }
+  
+  .header nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    margin: 0;
+  }
+  
+  .header nav ul li {
+    cursor: pointer;
+  }
+  
+  /* Content Area */
+  .content {
+    display: flex;
+    flex: 1;
+    background-color: #f4f4f4;
+  }
+  
+  /* Sidebar */
+  .sidebar {
+    background-color: #f7f8fa;
+    width: 800px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 20px;
+  }
+  
+  .sidebar button {
+    background-color: #042241;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    text-align: left;
+  }
+  
+  .sidebar button:hover {
+    background-color: #004fbf;
+  }
+  
+  /* Right Panel */
+  .right-panel {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    
+
+  }
+  
+  .mobile-image {
+    width: 600px;
+    height: fit-content;
+
+  }
+  

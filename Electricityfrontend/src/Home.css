@@ -1,0 +1,69 @@
+/* Banner section styling */
+.banner {
+  position: relative;
+  text-align: center;
+  color: white;
+  
+background-color: black;
+  padding: 3rem 1rem;
+}
+
+.banner-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  gap: 1rem;
+}
+
+.phone-image {
+  width: 100%;
+  height: 400px;
+
+}
+
+.banner h2 {
+  font-size: 2rem;
+  line-height: 1.5;
+}
+
+/* Content section styling */
+.content {
+  padding: 0rem 0rem;
+  text-align: left;
+  background-color: white;
+  margin: 2%;
+  
+
+  
+}
+
+
+.content-images {
+  display: flex;
+  background-color:rgb(233, 224, 224);
+  justify-content: center;
+  gap: 1rem;
+  padding: 2%;
+  margin: 2%;
+}
+
+.content-images img {
+  width: 400px;
+  height: 200px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.about {
+
+  text-align: justify;
+  width: 95%;
+  height: 30%;
+  justify-content: center;
+  gap: 1rem;
+  padding: 0%;
+  margin: 2%;
+
+
+}

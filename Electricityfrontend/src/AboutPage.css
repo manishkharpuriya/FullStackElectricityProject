@@ -1,0 +1,41 @@
+.about-page {
+    font-family: Arial, sans-serif;
+    color: #333;
+    line-height: 1.4;
+    margin: 0;
+    padding: 20px;
+    background-color: #f8f9fa;
+  }
+  
+  .about-header {
+    background-color: #f5f6f7;
+    color: rgb(12, 11, 11);
+    text-align: center;
+    padding: 20px 10px;
+  }
+  
+  .about-header h1 {
+    margin: 0;
+    font-size: 2rem;
+  }
+  
+  .about-content {
+    max-width: 95%;
+    margin: 30px auto;
+    padding: 10px;
+    background: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+  }
+  
+  .about-content h2 {
+    font-size: 1.8rem;
+    margin-bottom: 15px;
+    color: #011c36;
+  }
+  
+  .about-content p {
+    margin: 15px 0;
+    text-align: justify;
+  }
+  

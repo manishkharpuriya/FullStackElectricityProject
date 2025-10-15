@@ -1,0 +1,24 @@
+.body{
+    text-align: left;
+    font-weight: bold;
+    
+}
+
+.ta{
+    max-width: 95%;
+    margin: 30px auto;
+    padding: 10px;
+    background: #c7acac;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    font-weight: bold;
+    text-align: left;
+    
+}
+.header{
+    border-bottom-style: groove;
+    border-color: rgb(5, 8, 59);
+    color: rgb(5, 8, 59);
+    margin: 4%;
+    width: auto;
+}

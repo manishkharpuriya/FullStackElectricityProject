@@ -1,0 +1,17 @@
+.header{
+    border-bottom-style: groove;
+    border-color: rgb(5, 8, 59);
+    color: rgb(5, 8, 59);
+    margin: 4%;
+    width: auto;
+}
+
+.page button{
+   padding: 10px;
+   background-color: blue;
+   
+}
+.page button:hover{
+    background-color: rgb(2, 139, 55);
+
+}
